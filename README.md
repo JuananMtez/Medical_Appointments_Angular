@@ -1,6 +1,6 @@
 ## About the project
 
-Simple API for the creation of medical appointments. The frontend side is in [Citas_Medicas_Angular](https://github.com/JuananMtez/Citas_Medicas_Angular).
+Simple frontend application for the creation of medical appointments.
 
 ### Built With
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
